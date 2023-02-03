@@ -57,8 +57,6 @@ const server = new ApolloServer({
 });
 
 async function main() {
-  console.log("\n\nURL: ", process.env.DATABASE_URL);
-
   // Connect the client
   await prisma.$connect();
   // ... you will write your Prisma Client queries here
