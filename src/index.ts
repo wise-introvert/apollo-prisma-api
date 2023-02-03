@@ -1,3 +1,6 @@
+import { config } from 'dotenv'
+config()
+
 import { ApolloServer } from "@apollo/server";
 import { startStandaloneServer } from "@apollo/server/standalone";
 import { PrismaClient, Book } from "@prisma/client";
