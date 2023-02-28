@@ -9,7 +9,7 @@
     "start:dev": "nodemon"
   },
   "dependencies": {
-    "@apollo/server": "^4.3.2",
+    "@apollo/server": "^4.3.3",
     "@prisma/client": "^4.9.0",
     "graphql": "^16.6.0",
     "lodash": "^4.17.21"
