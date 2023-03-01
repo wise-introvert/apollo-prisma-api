@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@apollo/server": "^4.3.2",
-    "@prisma/client": "^4.9.0",
+    "@prisma/client": "^4.10.0",
     "graphql": "^16.6.0",
     "lodash": "^4.17.21"
   },
